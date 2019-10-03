@@ -18,7 +18,8 @@ SPOTIFY_SECRET=your-spotify-secret
 To actually get the project to run you will need to open command line or terminal in the folder that contains these files. The first thing you type in command line/terminal will always be
 ```
 node liri.js
-``` followed by one of 4 things
+``` 
+followed by one of 4 things
 ```
 node liri.js concert-this
 ``` 
